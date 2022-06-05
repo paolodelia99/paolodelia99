@@ -1,15 +1,14 @@
 ### Hi there, Paolo here 👋
 
-I'm a computer science student and an aspiring Data Scientist.
+I'm currently a third year Computer Science student at Unimib. I am really passionate about the world of coding, AI and everything related to computer science and tech.
 
-- 🔭 I’m currently working on ...
+I'm also a really sporty guy, I'm going to the gym between 4 and 5 times a week. What's sport taught me is **discipline** and **determination**, that allows me to getting done faster the "boring stuff" and have time to dedicate the to things that I've love to do!
+
+- 🔭 I’m currently working on Reinforcement Learning in Trading.
 - 🌱 I’m currently learning data science, machine learning and deep learning
-- 👯 I’m looking to collaborate on data scientists
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 👯 I’m looking to collaborate with data scientist
+- 💬 Ask me about **anything**
 - 📫 How to reach me: paolo.delia99@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!--
 **paolodelia99/paolodelia99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
