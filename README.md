@@ -4,7 +4,7 @@ I'm currently a third year Computer Science student at Unimib. I am really passi
 
 I'm also a really sporty guy, I'm going to the gym between 4 and 5 times a week. What's sport taught me is **discipline** and **determination**, that allows me to getting done faster the "boring stuff" and have time to dedicate the to things that I've love to do!
 
-- 🔭 I’m currently working on Reinforcement Learning in Trading.
+- 🔭 I’m currently working on Deep Learning, Timeseries forecasting, and Reinforcement Learning related projects.
 - 🌱 I’m currently learning data science, machine learning and deep learning
 - 👯 I’m looking to collaborate with data scientist
 - 💬 Ask me about **anything**
