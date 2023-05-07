@@ -6,7 +6,7 @@ I'm also a really sporty guy, I'm going to the gym between 4 and 5 times a week.
 
 - 🔭 I’m currently working on Deep Learning, Timeseries forecasting, and Reinforcement Learning related projects.
 - 🌱 I’m currently learning data science, machine learning and deep learning
-- 👯 I’m looking to collaborate with data scientist
+- 👯 I’m looking to collaborate with [INSERT-FIGURE]
 - 💬 Ask me about **anything**
 - 📫 How to reach me: paolo.delia99@gmail.com
 
