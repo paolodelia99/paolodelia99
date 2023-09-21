@@ -1,13 +1,12 @@
 ### Hi there, I'm Paolo 👋
 
-I am a first-year Computer Master Science student at the University of Copenhagen with a keen interest in Machine Learning, Math, and Quantitative Finance. Currently, I'm working as a Student DevOps Engineer at Nordea Markets in the Quantitative Research team. My current focus is on Deep Learning and Stochastic Programming, and I'm always on the lookout for collaborations with like-minded individuals interested in Quantitative Finance.
+I am a second-year Computer Master Science student at the University of Copenhagen with a keen interest in Machine Learning, Math, and Quantitative Finance. Currently, I'm working as a Student DevOps Engineer at Nordea Markets in the Quantitative Research team. My current focus is on Probability Theory, C++ programming and Quant Finance.
 
 In my free time, I love to stay fit and stay disciplined, hitting the gym regularly. This has taught me important values like discipline and determination, which have helped me tackle even the most boring tasks and save more time for things I love to do!
 
-- 🔭 I’m currently working on Deep Learning and Stochastic Programming related projects.
-- 🌱 I’m currently learning more about Machine Learning and Quantitative Finance.
+- 🔭 I’m currently working on: I don't have time to work on side projects now😅, too busy with my studies and work.
+- 🌱 I’m currently learning more about Probability Theory, functional programming, and Quantitative Finance.
 - 👯 I’m looking to collaborate with someone interested in Quantitative Finance.
-- 💬 Feel free to ask me anything.
 - 📫 How to reach me: paolo.delia99@gmail.com
 
 <!--
@@ -19,7 +18,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about ... - 💬 Feel free to ask me anything. 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
