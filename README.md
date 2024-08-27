@@ -1,12 +1,12 @@
 ### Hi there, I'm Paolo 👋
 
-I am a second-year Computer Master Science student at the University of Copenhagen with a keen interest in Machine Learning, Math, and Quantitative Finance. Currently, I'm working as a Student DevOps Engineer at Nordea Markets in the Quantitative Research team. My current focus is on Probability Theory, C++ programming and Quant Finance.
+I recently graduated with a Master’s degree in Computer Science from the University of Copenhagen, and former Student DevOps Engineer at Nordea Markets in the Quantitative Research team. My journey has equipped me with a solid foundation in Python programming and C++ programming, and I’ve developed a deep interest in Quantitative Finance.
 
-In my free time, I love to stay fit and stay disciplined, hitting the gym regularly. This has taught me important values like discipline and determination, which have helped me tackle even the most boring tasks and save more time for things I love to do!
+I'm particularly interested in learning more about Quantum Computing and Quantum Mechanics. If you share these interests or have knowledge to share on these topics, I’d love to connect!
 
-- 🔭 I’m currently working on: I don't have time to work on side projects now😅, too busy with my studies and work.
-- 🌱 I’m currently learning more about Probability Theory, functional programming, and Quantitative Finance.
-- 👯 I’m looking to collaborate with someone interested in Quantitative Finance.
+- 🔭 I’m currently focused on expanding my knowledge in Quantum Computing and Quantum Mechanics.
+- 🌱 I’m learning more about Python, C++ programming, and their applications in Quantitative Finance.
+- 👯 I’m looking to collaborate with others who are passionate about Quantitative Finance or Quantum Computing.
 - 📫 How to reach me: paolo.delia99@gmail.com
 
 <!--
