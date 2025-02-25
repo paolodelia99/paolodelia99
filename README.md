@@ -1,13 +1,11 @@
 ### Hi there, I'm Paolo 👋
 
-I recently graduated with a Master’s degree in Computer Science from the University of Copenhagen, and former DevOps Engineer at Nordea Markets in the Quantitative Research team. My journey has equipped me with a solid foundation in Python programming and C++ programming, and I’ve developed a deep interest in Quantitative Finance.
+I hold a **Master’s in Computer Science** from the **University of Copenhagen** and previously worked as a **DevOps Engineer at Nordea Markets** in the **Quantitative Research team**. My focus is on **Quantitative Finance**, exploring how financial models, numerical methods, and algorithms can be efficiently implemented in production using **Python, C++, and industry-standard libraries**.  
 
-I'm particularly interested in learning more about Low-latency programming and trading systems in C++. If you share these interests or have knowledge to share on these topics, I’d love to connect!
-
-- 🔭 I’m currently focused on expanding my knowledge in Low-latency programming and trading systems.
-- 🌱 I’m learning more about Python, C++ programming, and their applications in Quantitative Finance.
-- 👯 I’m looking to collaborate with others who are passionate about Quantitative Finance.
-- 📫 How to reach me: paolo.delia99@gmail.com
+🔭 Currently deepening my knowledge in **Quant Finance** and its real-world applications.  
+🌱 Learning more about **Python, C++**, and key **financial computing libraries**.  
+👯 Looking to collaborate on **Quantitative Finance, high-performance computing, and software development**.  
+📫 Reach me at **paolo.delia99@gmail.com**  
 
 <!--
 **paolodelia99/paolodelia99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
