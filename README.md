@@ -1,10 +1,10 @@
 ### Hi there, I'm Paolo 👋
 
-I hold a **Master’s in Computer Science** from the **University of Copenhagen** and previously worked as a **DevOps Engineer at Nordea Markets** in the **Quantitative Research team**. My focus is on **Quantitative Finance**, exploring how financial models, numerical methods, and algorithms can be efficiently implemented in production using **Python, C++, and industry-standard libraries**.  
+I hold a Master’s in Computer Science from the University of Copenhagen and previously worked as a DevOps Engineer at Nordea Markets in the Quantitative Research team. My focus is on **Quantitative Finance**, exploring how financial models, numerical methods, and algorithms can be efficiently implemented in production using Python, C++, and industry-standard libraries.  
 
-🔭 Currently deepening my knowledge in **Quant Finance** and its real-world applications.  
-🌱 Learning more about **Python, C++**, and key **financial computing libraries**.  
-👯 Looking to collaborate on **Quantitative Finance, high-performance computing, and software development**.  
+🔭 Currently deepening my knowledge in Quant Finance and its real-world applications.  
+🌱 Learning more about Python, C++, and key financial computing libraries.  
+👯 Looking to collaborate on Quantitative Finance, high-performance computing, and software development.  
 📫 Reach me at **paolo.delia99@gmail.com**  
 
 <!--
